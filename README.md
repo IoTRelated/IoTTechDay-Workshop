@@ -59,9 +59,6 @@ The workshop consists of several chapters. The first two chapters will guide you
     
 2. Receiving and handling telemetry in Azure
 
-    | Choose the device to receive telemetry from ||
-    | :---: | :---: | :---: |
-    | ![The Things Network](img/Options/arduino.png) | ![Universal Windows Platform](img/Options/windows.png) | ![NodeJS](img/Options/nodejs.png) |
     <table>
         <thead>
         <tr>
@@ -87,9 +84,31 @@ The workshop consists of several chapters. The first two chapters will guide you
     </table>
 
 3. Passing commands back to actual devices or simulated devices
-    1. [Passing commands back to a The Things Uno device](CommandsTTN.md)
-    2. [Passing commands back to a UWP app device simulation](CommandsUwp.md)
-    3. [Passing commands back to a NodeJs (JavaScript) app device simulation](CommandsNodeJs.md)
+
+    <table>
+        <thead>
+        <tr>
+            <th colspan="4">Choose the device to pass commands back to</th>    
+        </tr>
+        <thead>
+        <tbody>
+        <tr>
+            <td>
+                <a href="CommandsTTN.md"><img src="img/Options/arduino.png" alt="Passing commands back to a The Things Uno device" /></a>
+            </td>
+            <td>
+                <a href="CommandsUwp.md"><img src="img/Options/windows.png" alt="Passing commands back to a UWP app device simulation" /></a>
+            </td>
+            <td>
+                <a href="CommandsNodeJs.md"><img src="img/Options/nodejs.png" alt="Passing commands back to a NodeJs (JavaScript) app device simulation" /></a>
+            </td>
+            <td>
+                <a href=""><img src="img/Options/java-optout.png" alt="Not available yet" /></a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
 4. Bonus
    1. [Deploying The Things Network Bridge to Azure as a WebJob](Webjob.md)
    2. [Add basic monitoring to the IoT platform](IoTPatformMonitoring.md)

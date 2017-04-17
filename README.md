@@ -62,10 +62,30 @@ The workshop consists of several chapters. The first two chapters will guide you
     | Choose the device to receive telemetry from ||
     | :---: | :---: | :---: |
     | ![The Things Network](img/Options/arduino.png) | ![Universal Windows Platform](img/Options/windows.png) | ![NodeJS](img/Options/nodejs.png) |
+    <table>
+        <thead>
+        <tr>
+            <th colspan="4">Choose the device to receive telemetry from</th>    
+        </tr>
+        <thead>
+        <tbody>
+        <tr>
+            <td>
+                <a href="AzureTTN.md"><img src="img/Options/arduino.png" alt="Receiving and handling telemetry in Azure, sent by a TheThingsUno" /></a>
+            </td>
+            <td>
+                <a href="AzureUWP.md"><img src="img/Options/windows.png" alt="Receiving and handling telemetry in Azure, sent by a UWP app device simulation" /></a>
+            </td>
+            <td>
+                <a href="AzureNodeJs.md"><img src="img/Options/nodejs.png" alt="Receiving and handling telemetry in Azure, sent by a NodeJs (JavaScript) app device simulation" /></a>
+            </td>
+            <td>
+                <a href=""><img src="img/Options/java-optout.png" alt="Not available yet" /></a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
 
-    1. [Receiving and handling telemetry in Azure, sent by a TheThingsUno](AzureTTN.md)
-    1. [Receiving and handling telemetry in Azure, sent by a UWP app device simulation](AzureUWP.md)
-    1. [Receiving and handling telemetry in Azure, sent by a NodeJs (JavaScript) app device simulation](AzureNodeJs.md)
 3. Passing commands back to actual devices or simulated devices
     1. [Passing commands back to a The Things Uno device](CommandsTTN.md)
     2. [Passing commands back to a UWP app device simulation](CommandsUwp.md)

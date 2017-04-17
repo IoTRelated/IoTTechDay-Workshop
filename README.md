@@ -32,9 +32,25 @@ The workshop consists of several chapters. The first two chapters will guide you
 
 1. Connecting a device to the Azure IoT Platform
 
-    | [![Getting started with the The Things Uno device and The Things Network](img/Options/arduino.png)](TheThingsNetwork.md) | [![Connecting to an IoT Hub using a UWP app device simulation](img/Options/windows.png)](UwpToIotHub.md) | [![Connecting to an IoT Hub using a NodeJs (JavaScript) app device simulation](img/Options/nodejs.png)](NodeJsToIotHub.md) | [![Connecting to an IoT Hub using a Java app device simulation](img/Options/java.png)](JavaToIotHub.md) |
-    | :---: | :---: | :---: | :---: |
-    | Cross platform | Windows 10 | Cross platform | Cross platform |
+    <table>
+        <tr>
+            <th colspan="4">One</th>    
+        </tr>
+        <tr>
+            <td>
+                <a href="TheThingsNetwork.md"><img src="img/Options/arduino.png" alt="Getting started with the The Things Uno device and The Things Network" /></a>
+            </td>
+            <td>
+                <a href="UwpToIotHub.md"><img src="img/Options/windows.png" alt="Connecting to an IoT Hub using a UWP app device simulation" /></a>
+            </td>
+            <td>
+                <a href="NodeJsToIotHub.md"><img src="img/Options/nodejs.png" alt="Connecting to an IoT Hub using a NodeJs (JavaScript) app device simulation" /></a>
+            </td>
+            <td>
+                <a href="JavaToIotHub.md"><img src="img/Options/java.png" alt="Connecting to an IoT Hub using a Java app device simulation" /></a>
+            </td>
+        </tr>
+    </table>
 
     
 2. Receiving and handling telemetry in Azure

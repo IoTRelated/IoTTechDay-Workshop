@@ -81,7 +81,7 @@ The workshop consists of several chapters. The first two chapters will guide you
                 <a href="AzureNodeJs.md"><img src="img/Options/nodejs.png" alt="Receiving and handling telemetry in Azure, sent by a NodeJs (JavaScript) app device simulation" /></a>
             </td>
             <td>
-                <a href=""><img src="img/Options/java-optout.png" alt="Not available yet" /></a>
+                <a href="#"><img src="img/Options/java-optout.png" alt="Not available yet" /></a>
             </td>
         </tr>
         </tbody>
@@ -107,7 +107,7 @@ The workshop consists of several chapters. The first two chapters will guide you
                 <a href="CommandsNodeJs.md"><img src="img/Options/nodejs.png" alt="Passing commands back to a NodeJs (JavaScript) app device simulation" /></a>
             </td>
             <td>
-                <a href=""><img src="img/Options/java-optout.png" alt="Not available yet" /></a>
+                <a href="#"><img src="img/Options/java-optout.png" alt="Not available yet" /></a>
             </td>
         </tr>
         </tbody>

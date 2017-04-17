@@ -33,9 +33,12 @@ The workshop consists of several chapters. The first two chapters will guide you
 1. Connecting a device to the Azure IoT Platform
 
     <table>
+        <thead>
         <tr>
             <th colspan="4">One</th>    
         </tr>
+        <thead>
+        <tbody>
         <tr>
             <td>
                 <a href="TheThingsNetwork.md"><img src="img/Options/arduino.png" alt="Getting started with the The Things Uno device and The Things Network" /></a>
@@ -50,6 +53,7 @@ The workshop consists of several chapters. The first two chapters will guide you
                 <a href="JavaToIotHub.md"><img src="img/Options/java.png" alt="Connecting to an IoT Hub using a Java app device simulation" /></a>
             </td>
         </tr>
+        </tbody>
     </table>
 
     

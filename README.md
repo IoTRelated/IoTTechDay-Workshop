@@ -31,6 +31,7 @@ During the workshop the following experts will be present to guide you through t
 The workshop consists of several chapters. The first two chapters will guide you through the essentials we want you to get your hands on. The other chapters are optional/extra if you have time left.
 
 1. Connecting a device to the Azure IoT Platform
+    
     You have 4 options to choose from to start with. You can either go for physical hardware based on the The Things Uno (Lora/LoraWAN enabled Arduino Leonardo) programmed in C and connected via The Things Network, Or choose One of the device simulating devices as UWP (C#), NodeJS (JavaScript) or Java application.
 
     <table>

@@ -35,7 +35,7 @@ The workshop consists of several chapters. The first two chapters will guide you
     <table>
         <thead>
         <tr>
-            <th colspan="4">One</th>    
+            <th colspan="4">Choose the device to connect</th>    
         </tr>
         <thead>
         <tbody>

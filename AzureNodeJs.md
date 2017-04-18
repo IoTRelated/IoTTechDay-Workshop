@@ -378,4 +378,4 @@ Receiving basic telemetry in Azure completes this part of the workshop. You are 
 1. Let's start passing commands back to actual devices or simulated devices
     1. [Passing commands back to a NodeJs app device simulation](CommandsNodeJs.md)
 
-![alt tag](img/logos/innovatos-digitalshockwaves-2017.png)
+![IoT Tech Day 2017](img/logos/iottechday2017.png)

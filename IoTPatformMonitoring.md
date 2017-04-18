@@ -257,4 +257,4 @@ This concludes this chapter of the workshop. You have both experienced how to mo
 
 Thank you for checking out IoT Hub operations monitoring.
 
-![alt tag](img/logos/innovatos-digitalshockwaves-2017.png)
+![IoT Tech Day 2017](img/logos/iottechday2017.png)

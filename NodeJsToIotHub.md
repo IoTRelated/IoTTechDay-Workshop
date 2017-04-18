@@ -318,4 +318,4 @@ These messages shown during the monitoring step are now available in Azure, and 
 
 Next Step: You are now ready to process your data in an Azure Function. Continue to [Receiving and handling telemetry in Azure](AzureNodeJs.md)
 
-![alt tag](img/logos/innovatos-digitalshockwaves-2017.png)
+![IoT Tech Day 2017](img/logos/iottechday2017.png)
